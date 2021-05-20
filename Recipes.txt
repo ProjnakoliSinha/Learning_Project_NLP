@@ -1,3 +1,5 @@
 Welcome to the new project in NLP
 The NLP project will be in JSL
 and spark nlp
+NER
+String matching
