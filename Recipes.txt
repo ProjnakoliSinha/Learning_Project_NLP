@@ -3,3 +3,4 @@ The NLP project will be in JSL
 and spark nlp
 NER
 String matching
+PolyFuzz
